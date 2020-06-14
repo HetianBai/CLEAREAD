@@ -1,0 +1,9 @@
+
+
+<section data-width="100%" style="margin-top: -4px; display: inline-block; width: 100%; font-size: 0px; background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/B0OT7bl3qeHjOeJvdASyHLFa2sOvVpBtf6SU69odFp50icibajbibIL0vOVibSwsVyIMdnxhTwyyOeHryeDWN5fIww/640?wx_fmt=jpeg&quot;); background-size: cover; vertical-align: top; background-attachment: scroll; box-sizing: border-box; text-align: center; background-position: 0% 0%; background-repeat: no-repeat; max-width: 100% !important;">
+		<svg data-width="100%" enable-background="new 0 0 726 69" space="preserve" style="display: inline-block;outline: none;width: 100%;margin-top: -1px;border-width: initial;border-style: none;border-color: initial;vertical-align: top;background-position: 0% 0%;background-repeat: no-repeat;background-size: 100%;background-attachment: scroll;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/B0OT7bl3qeHjOeJvdASyHLFa2sOvVpBtpzvicribTPbo6YwGwdv4oLn1cPyHodMkqbiaCiapFy3g8wBx5N3fRcIyIw/640?wx_fmt=jpeg&quot;);-webkit-tap-highlight-color: transparent;" viewBox="0 0 726 69" x="0px" xml="" y="0px">
+			<set attributeName="visibility" from="visible" to="hidden" begin="click"></set>
+			<animate attributeName="opacity" begin="click" dur="0s" values="1;0" restart="never" fill="freeze">
+			</animate>
+		</svg>
+</section>
