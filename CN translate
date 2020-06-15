@@ -1,0 +1,1 @@
+=filterxml(webservice("http://fanyi.youdao.com/translate?&i="&A1&"&doctype=xml&version"),"//translation")
