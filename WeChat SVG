@@ -9,15 +9,43 @@
 		</svg>
 </section>
 
-<svg>
+<svg data-width="100%" enable-background="new 0 0 1067 212" space="preserve" style="display: inline-block;outline: none;width: 100%;margin-top: -1px;border-width: initial;border-style: none;border-color: initial;vertical-align: top;background-position: 0% 0%;background-repeat: no-repeat;background-size: 100%;background-attachment: scroll;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/B0OT7bl3qeHXyefszTNyS5dpSC7ibC17iaQDjD4lz7DwTTKuibCX7ibK5wtI6IPsmGGveKMu3aYn00oFQtaBUgVYOA/640?wx_fmt=jpeg&quot;);-webkit-tap-highlight-color: transparent;" viewBox="0 0 1067 212" x="0px" xml="" y="0px">
     <g>
         <text x="0" y="50" font-family="Verdana" font-size="35" fill="blue">&#8203;happy</text>
     </g>
     <g>
         <text x="100" y="50" font-family="Verdana" font-size="35" fill="blue" opacity="0">sad
-        <animate attributeName="opacity" begin="click" dur="0.3s" from="0" to="1" fill="freeze"></animate>
-        <animate attributeName="opacity" begin="click+3" dur="0.3s" from="1" to="0" fill="freeze">            
-	    </animate></text>
+	<animate attributeName="opacity" begin="click" dur="0.3s" values="1;0" fill="freeze">
+	</animate>
+	<animate attributeName="opacity" begin="click+3" dur="0.3s" values="0;1" fill="freeze">  
+	</animate></text>
         
+    </g>
+</svg>
+
+
+<svg data-width="100%" enable-background="new 0 0 1067 212" space="preserve" style="display: inline-block; outline: none; width: 100%; margin-top: -1px; border-width: initial; border-style: none; border-color: initial; vertical-align: top; background-position: 0% 0%; background-repeat: no-repeat; background-size: 100%; background-attachment: scroll; background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/B0OT7bl3qeHXyefszTNyS5dpSC7ibC17iaQDjD4lz7DwTTKuibCX7ibK5wtI6IPsmGGveKMu3aYn00oFQtaBUgVYOA/640?wx_fmt=jpeg&quot;); -webkit-tap-highlight-color: transparent;" viewBox="0 0 1067 212" x="0px" xml="" y="0px">
+	<g><text x="50" y="150" font-family="Verdana" font-size="70" fill="blue">happy</text>
+	</g>
+	<g>
+	     <text x="250" y="150" font-family="Verdana" font-size="70" fill="blue" opacity="0">&#8203;&#8203;Hello	
+             <animate attributeName="opacity" begin="click" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+             <animate attributeName="opacity" begin="click+3" dur="0.3s" from="1" to="0" fill="freeze">
+             </animate>
+             </text>
+	</g>
+</svg>
+
+<svg data-width="100%" enable-background="new 0 0 1067 212" space="preserve" style="display: inline-block; outline: none; width: 100%; margin-top: -1px; border-width: initial; border-style: none; border-color: initial; vertical-align: top; background-position: 0% 0%; background-repeat: no-repeat; background-size: 100%; background-attachment: scroll; background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_jpg/B0OT7bl3qeHXyefszTNyS5dpSC7ibC17iaQDjD4lz7DwTTKuibCX7ibK5wtI6IPsmGGveKMu3aYn00oFQtaBUgVYOA/640?wx_fmt=jpeg&quot;); -webkit-tap-highlight-color: transparent;" viewBox="0 0 1067 212" x="0px" xml="" y="0px">
+	<g><text x="50" y="150" font-family="Verdana" font-size="70" fill="blue">happy</text>
+	</g>
+	<g>
+	     
+<rect width="1067" height="212" fill="transparent"> <text x="250" y="150" font-family="Verdana" font-size="70" fill="blue" opacity="0">Hello
+         <animate attributeName="opacity" begin="click" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+         <animate attributeName="opacity" begin="click+3" dur="0.3s" from="1" to="0" fill="freeze">
+    </animate></text></rect>
+         
+
 	</g>
 </svg>
